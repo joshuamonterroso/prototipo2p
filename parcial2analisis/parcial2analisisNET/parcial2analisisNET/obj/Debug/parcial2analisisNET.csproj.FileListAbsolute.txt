@@ -1,0 +1,16 @@
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\parcial2analisisNET.exe.config
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\parcial2analisisNET.exe
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\parcial2analisisNET.pdb
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\CapaVista.dll
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\CapaVista.pdb
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\CapaControlador.pdb
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\bin\Debug\CapaModelo.pdb
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\obj\Debug\parcial2analisisNET.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\obj\Debug\parcial2analisisNET.Properties.Resources.resources
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\obj\Debug\parcial2analisisNET.csproj.GenerateResource.cache
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\obj\Debug\parcial2analisisNET.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\obj\Debug\parcial2analisisNET.csproj.CopyComplete
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\obj\Debug\parcial2analisisNET.exe
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisisNET\parcial2analisisNET\obj\Debug\parcial2analisisNET.pdb

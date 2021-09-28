@@ -1,0 +1,14 @@
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\obj\Debug\CapaVista.menu.resources
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\obj\Debug\CapaVista.forma1ejemplo.resources
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaVista\bin\Debug\CapaModelo.pdb
