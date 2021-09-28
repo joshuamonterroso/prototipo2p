@@ -33,5 +33,33 @@ namespace CapaVista
             frmprueba.MdiParent = this;
             frmprueba.Show();
         }
+
+        private void gestionProveedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            proveedores frmprov = new proveedores();
+            frmprov.MdiParent = this;
+            frmprov.Show();
+        }
+
+        private void gestionOrdenesCompraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comprainventario frmcom = new comprainventario();
+            frmcom.MdiParent = this;
+            frmcom.Show();
+        }
+
+        private void agregarMarcaLineaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            marcalinea frmmli = new marcalinea();
+            frmmli.MdiParent = this;
+            frmmli.Show();
+        }
+
+        private void agregarProductoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            producto frmpro = new producto();
+            frmpro.MdiParent = this;
+            frmpro.Show();
+        }
     }
 }

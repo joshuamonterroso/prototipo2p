@@ -13,7 +13,14 @@ namespace CapaModelo
         clsconexion con = new clsconexion();
         public OdbcDataAdapter llenartb1() //Metodo que obtiene el contenido de una tabla
         {
-            string sql = "select * from registro_consultas;";
+            string sql = "select * from proveedores;";
+            OdbcDataAdapter datatable = new OdbcDataAdapter(sql, con.conexion());
+            return datatable;
+        }
+
+        public OdbcDataAdapter llenartb2() //Metodo que obtiene el contenido de una tabla
+        {
+            string sql = "select * from producto;";
             OdbcDataAdapter datatable = new OdbcDataAdapter(sql, con.conexion());
             return datatable;
         }

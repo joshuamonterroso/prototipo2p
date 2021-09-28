@@ -7,3 +7,12 @@ C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaControlador\obj\Deb
 C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaControlador\bin\Debug\CapaModelo.dll
 C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaControlador\bin\Debug\CapaModelo.pdb
 C:\Users\mgado\Desktop\parcial2analisis\parcial2analisis\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\prototipo2p\parcial2analisis\parcial2analisis\CapaControlador\obj\Debug\CapaControlador.pdb

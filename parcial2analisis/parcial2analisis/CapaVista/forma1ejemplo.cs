@@ -45,7 +45,7 @@ namespace CapaVista
 
         private void button1_Click(object sender, EventArgs e)
         {
-            cn.ingresarconsulta(textBox1.Text, textBox2.Text);
+            //cn.ingresarconsulta(textBox1.Text, textBox2.Text);
             llenarcombo();
             actualizardatagrid();
         }
